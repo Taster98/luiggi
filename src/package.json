@@ -1,0 +1,28 @@
+{
+  "name": "luiggi.it",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taster98/luiggi.git"
+  },
+  "keywords": [
+    "luiggi"
+  ],
+  "author": "luiggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taster98/luiggi/issues"
+  },
+  "homepage": "https://github.com/Taster98/luiggi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
